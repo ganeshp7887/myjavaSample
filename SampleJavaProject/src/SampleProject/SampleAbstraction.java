@@ -2,7 +2,7 @@ package SampleProject;
 
 // abstraction is hiding actual impelementation and just showing functionality.
 
-abstract class AbstractMathematics1 { // abstract class should be declared as abstract keyword.
+abstract class AbstractMathematics { // abstract class should be declared with abstract keyword.
 	
 	protected final String color = "red";
 	
