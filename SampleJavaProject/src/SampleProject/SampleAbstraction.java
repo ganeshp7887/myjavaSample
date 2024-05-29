@@ -1,6 +1,6 @@
 package SampleProject;
 
-// abstraction is hiding actual impelementation and just showing functionality.
+// abstraction is hiding actual implementation and just showing functionality.
 
 abstract class AbstractMathematics { // abstract class should be declared with abstract keyword.
 	
